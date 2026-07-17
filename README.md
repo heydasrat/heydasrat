@@ -77,13 +77,6 @@ I love coding, playing Minecraft, and learning how games are made behind the sce
 
 ---
 
-### 📊 GitHub Stats
-
-![Dasrat's GitHub stats](https://github-readme-stats.vercel.app/api?username=heydasrat&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heydasrat&layout=compact&theme=radical)
-
----
-
 ### 🏆 Goals
 - Become a professional **Full-Stack Developer (MERN)**
 - Build and deploy real-world, security-conscious backend projects
