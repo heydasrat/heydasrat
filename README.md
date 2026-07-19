@@ -24,13 +24,13 @@ A secure authentication backend built with **Node.js, Express.js, MongoDB, Mongo
 🔗 [github.com/heydasrat/advanced-auth-system](https://github.com/heydasrat/advanced-auth-system)
 
 ### 🤝 I'm looking to collaborate on
-Frontend or full-stack projects involving React, Next.js, or Node.js — especially anything touching authentication, security, or API design.
+Frontend or full-stack projects involving React, Node.js — especially anything touching authentication, security, or API design.
 
 ### 📘 I'm currently learning
 Node.js, Express.js, MongoDB, JWT-based authentication, and secure API development.
 
 ### 💬 Ask me about
-JavaScript, React, Next.js, Tailwind CSS, UI design, and (now) backend authentication — sessions, tokens, OTP flows, and password security.
+JavaScript, React, Tailwind CSS, UI design, and (now) backend authentication — sessions, tokens, OTP flows, and password security.
 
 ### ⚡ Fun fact
 I love coding, playing Minecraft, and learning how games are made behind the scenes.
@@ -54,13 +54,13 @@ I love coding, playing Minecraft, and learning how games are made behind the sce
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 **Backend & Auth**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
@@ -74,6 +74,75 @@ I love coding, playing Minecraft, and learning how games are made behind the sce
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 🧠 Skills Breakdown
+
+### 🚀 Core Backend
+- ✅ Node.js
+- ✅ Express.js
+- ✅ REST API development
+- ✅ JavaScript (ES6+)
+
+### 🗄️ Database
+- ✅ MongoDB
+- ✅ Mongoose
+- ✅ Database CRUD operations
+- ✅ Schema design
+- ✅ Model relationships (basic)
+
+### 🔐 Authentication & Security
+- ✅ User Registration
+- ✅ User Login
+- ✅ User Logout
+- ✅ JWT Authentication
+- ✅ Access Tokens
+- ✅ Refresh Tokens
+- ✅ HTTP-only Cookies
+- ✅ Password Hashing (bcrypt)
+- ✅ Authentication Middleware
+- ✅ Protected Routes
+- ✅ Password Validation
+
+### 👤 User Management
+- ✅ Update Profile
+- ✅ Change Password
+- ✅ Upload Profile Image
+- ✅ User Profile APIs
+
+### 📁 File Handling
+- ✅ Multer
+- ✅ File Upload APIs
+- ✅ Cloudinary Integration
+- ✅ Image Storage
+
+### ⚙️ API Development
+- ✅ API Routing
+- ✅ Controllers
+- ✅ Middleware
+- ✅ Request Validation
+- ✅ Response Handling
+- ✅ Async/Await
+- ✅ Environment Variables (.env)
+
+### 🛠 Error Handling
+- ✅ Custom Error Classes
+- ✅ Centralized Error Handling
+- ✅ Try/Catch
+- ✅ API Response Classes
+
+### 🧪 Testing & Development
+- ✅ Postman
+- ✅ API Testing
+- ✅ Debugging Authentication Issues
+- ✅ Debugging MongoDB Issues
+- ✅ Debugging Cloudinary Issues
+
+### 📝 Git & GitHub
+- ✅ Git basics
+- ✅ GitHub repositories
+- ✅ Project organization
 
 ---
 
