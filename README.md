@@ -1,91 +1,199 @@
 # 👋 About Me
 
 ### 👨‍💻 I'm Dasrat Kumar
-Frontend Developer growing into a **Full-Stack (MERN) Engineer**, with hands-on backend experience building secure, production-style systems. I enjoy building creative, responsive web applications — and recently went deep on backend authentication to understand what it really takes to keep user data safe.
+
+I'm a **Full-Stack MERN Developer** who enjoys building real-world web applications with a strong focus on backend architecture, authentication, security, and clean user experiences.
+
+I started with frontend development and gradually went deeper into backend engineering — building APIs, authentication systems, database architectures, file uploads, email flows, and complete full-stack applications.
 
 ---
 
-### 🚀 Currently working on
-Deepening my backend skills in Node.js and Express.js, and building full-stack (MERN) projects end to end.
+### 🚀 Currently Working On
 
-### 🔐 Featured Project: Advanced Authentication System
-A secure authentication backend built with **Node.js, Express.js, MongoDB, Mongoose, JWT, bcrypt, Multer, Cloudinary, and Nodemailer**.
+Building **LinkVault** — a full-stack personal link management platform designed to help users save, organize, search, favorite, and archive URLs in one place.
 
-- ✅ User registration with email OTP verification
-- ✅ Login / logout with JWT access & refresh tokens
-- ✅ Secure HTTP-only cookie-based sessions
-- ✅ Forgot password with OTP-based reset flow
-- ✅ Password & email update flows
-- ✅ Profile image uploads via Cloudinary
-- ✅ Password hashing with bcrypt
-- ✅ Clean, reusable middleware design
+I'm currently focusing on:
 
-🔗 [github.com/heydasrat/advanced-auth-system](https://github.com/heydasrat/advanced-auth-system)
-
-### 🤝 Open to collaborate on
-Frontend or full-stack projects involving React and Node.js — especially anything touching authentication, security, or API design.
-
-### 📘 Currently learning
-Node.js, Express.js, MongoDB, JWT-based authentication, and secure API development.
-
-### 💬 Ask me about
-JavaScript, React, Tailwind CSS, UI design, and backend authentication — sessions, tokens, OTP flows, and password security.
-
-### ⚡ Fun fact
-I love coding, playing Minecraft, and learning how games are made behind the scenes.
+- Building production-style REST APIs
+- Secure authentication with JWT access & refresh tokens
+- MongoDB/Mongoose data modeling
+- API validation and error handling
+- React + Vite frontend architecture
+- Redux Toolkit state management
+- Creating clean and responsive user interfaces
+- Building applications from backend to frontend
 
 ---
 
-## 🌐 Connect with me
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heydasrat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dasratkumarmalhi/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/heydasrat/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/heydasrat)
+### 🔗 Featured Project: LinkVault
+
+**LinkVault** is a full-stack link-saving and organization application.
+
+Users can save URLs, automatically fetch metadata, organize links into collections, search through saved links, favorite important links, and archive links they don't currently need.
+
+**Tech Stack:**
+
+- ⚛️ React + Vite
+- 🎨 Tailwind CSS
+- 🧭 React Router
+- 🔄 Redux Toolkit
+- 🟢 Node.js + Express.js
+- 🍃 MongoDB + Mongoose
+- 🔐 JWT Authentication
+- 🛡️ Zod Validation
+- ☁️ Cloudinary
+- 📧 Nodemailer
+- 📄 Multer
+- 🕷️ Cheerio
+
+**Key Features:**
+
+- ✅ User authentication
+- ✅ Access & refresh token authentication
+- ✅ HTTP-only cookies
+- ✅ Email verification
+- ✅ Password reset
+- ✅ Collections for organizing links
+- ✅ Automatic URL metadata extraction
+- ✅ Search functionality
+- ✅ Favorites
+- ✅ Link archiving and restoration
+- ✅ Soft deletion
+- ✅ User-owned resource protection
+- ✅ Avatar uploads
+- ✅ Rate-limited authentication endpoints
+- ✅ Centralized error handling
+- ✅ Production-style API structure
+
+---
+
+### 🔐 Previous Project: Advanced Authentication System
+
+A production-style authentication backend built with Node.js, Express.js, MongoDB, JWT, bcrypt, Cloudinary, Multer, and Nodemailer.
+
+Built to understand authentication beyond simple login/register flows.
+
+- ✅ Email verification
+- ✅ Access & refresh tokens
+- ✅ HTTP-only cookies
+- ✅ Forgot/reset password
+- ✅ Password and email updates
+- ✅ Profile image uploads
+- ✅ Secure password hashing
+- ✅ Authentication middleware
+- ✅ Centralized error handling
+- ✅ Reusable backend architecture
+
+🔗 [View Project](https://github.com/heydasrat/advanced-auth-system)
+
+---
+
+### 📘 Currently Learning
+
+I'm continuously improving my skills in:
+
+- Node.js & Express.js
+- MongoDB & Mongoose
+- REST API design
+- Authentication & authorization
+- Database design
+- JavaScript
+- React
+- Redux Toolkit
+- Data Structures & Algorithms
+- Python
+
+---
+
+### 💬 Ask Me About
+
+- JavaScript
+- React
+- Tailwind CSS
+- Node.js
+- Express.js
+- MongoDB & Mongoose
+- REST APIs
+- JWT Authentication
+- Access & Refresh Tokens
+- Cookies
+- API Security
+- Backend Architecture
+
+---
+
+### 🤝 Open to Collaborate On
+
+I'm interested in collaborating on:
+
+- Full-stack applications
+- MERN projects
+- Developer tools
+- SaaS products
+- Backend/API projects
+- Authentication & security-focused applications
+- Open-source projects
+
+---
+
+### ⚡ Fun Fact
+
+I enjoy building things from scratch and understanding **how things work behind the scenes** — from authentication and APIs to the systems that power the applications I use.
+
+I also enjoy playing Minecraft. 🎮
+
+---
+
+## 🌐 Connect With Me
+
+<!-- Add your social links here -->
 
 ---
 
 ## 💻 Tech Stack
 
-**Languages**
+### Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frontend**
+### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
-**Backend**
+### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
-**Database**
+### Database
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
-**Auth & Security**
+### Authentication & Security
 
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![bcrypt](https://img.shields.io/badge/bcrypt-338833?style=for-the-badge&logo=letsencrypt&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+![bcrypt](https://img.shields.io/badge/bcrypt-338033?style=for-the-badge)
 
-**Tools**
+### Tools & Services
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-22B573?style=for-the-badge)
 
 ---
 
 ### 🏆 Goals
-- Become a professional **Full-Stack Developer (MERN)**
-- Build and deploy real-world, security-conscious backend projects
-- Contribute to open-source
+
+- Become a highly skilled **Full-Stack Engineer**
+- Build and launch real-world SaaS products
+- Develop strong backend and system-design skills
+- Master data structures and algorithms
+- Build secure, scalable, production-ready applications
+- Contribute to meaningful open-source projects
+- Eventually build products that people actually use
