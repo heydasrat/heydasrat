@@ -67,6 +67,40 @@ Users can save URLs, automatically fetch metadata, organize links into collectio
 
 ---
 
+### ✅ Previous Project: Taskly
+
+**Taskly** is a full-stack Todo application focused on authentication, account management, and a clean task-management experience.
+
+Users can register and log in, manage their profile (including avatar and cover image uploads), change their password securely, and create and manage Todos backed by a MongoDB database.
+
+**Tech Stack:**
+
+- ⚛️ React + Vite
+- 🎨 Tailwind CSS
+- 🧭 React Router
+- 🔄 Redux Toolkit
+- 🟢 Node.js + Express.js
+- 🍃 MongoDB + Mongoose
+- 🔐 JWT Authentication
+- 📄 Multer
+
+**Key Features:**
+
+- ✅ User registration & login
+- ✅ JWT-based authentication middleware
+- ✅ Protected & public routes
+- ✅ Profile updates (username, full name)
+- ✅ Avatar & cover image uploads
+- ✅ Password change flow
+- ✅ Todo creation with Redux-managed state
+- ✅ Client-side form validation
+- ✅ Loading states & inline error handling
+- ✅ Responsive, layered frontend/backend architecture
+
+🔗 [View Project](https://github.com/heydasrat/taskly)
+
+---
+
 ### 🔐 Previous Project: Advanced Authentication System
 
 A production-style authentication backend built with Node.js, Express.js, MongoDB, JWT, bcrypt, Cloudinary, Multer, and Nodemailer.
