@@ -10,12 +10,12 @@ I started with frontend development and gradually went deeper into backend engin
 
 ### 🚀 Currently Working On
 
-Building **LinkVault** — a full-stack personal link management platform designed to help users save, organize, search, favorite, and archive URLs in one place.
+Building **Taskly** — a full-stack Todo application focused on authentication, account management, and a clean task-management experience.
 
 I'm currently focusing on:
 
 - Building production-style REST APIs
-- Secure authentication with JWT access & refresh tokens
+- Secure authentication with JWT
 - MongoDB/Mongoose data modeling
 - API validation and error handling
 - React + Vite frontend architecture
@@ -25,49 +25,7 @@ I'm currently focusing on:
 
 ---
 
-### 🔗 Featured Project: LinkVault
-
-**LinkVault** is a full-stack link-saving and organization application.
-
-Users can save URLs, automatically fetch metadata, organize links into collections, search through saved links, favorite important links, and archive links they don't currently need.
-
-**Tech Stack:**
-
-- ⚛️ React + Vite
-- 🎨 Tailwind CSS
-- 🧭 React Router
-- 🔄 Redux Toolkit
-- 🟢 Node.js + Express.js
-- 🍃 MongoDB + Mongoose
-- 🔐 JWT Authentication
-- 🛡️ Zod Validation
-- ☁️ Cloudinary
-- 📧 Nodemailer
-- 📄 Multer
-- 🕷️ Cheerio
-
-**Key Features:**
-
-- ✅ User authentication
-- ✅ Access & refresh token authentication
-- ✅ HTTP-only cookies
-- ✅ Email verification
-- ✅ Password reset
-- ✅ Collections for organizing links
-- ✅ Automatic URL metadata extraction
-- ✅ Search functionality
-- ✅ Favorites
-- ✅ Link archiving and restoration
-- ✅ Soft deletion
-- ✅ User-owned resource protection
-- ✅ Avatar uploads
-- ✅ Rate-limited authentication endpoints
-- ✅ Centralized error handling
-- ✅ Production-style API structure
-
----
-
-### ✅ Previous Project: Taskly
+### 🔗 Featured Project: Taskly
 
 **Taskly** is a full-stack Todo application focused on authentication, account management, and a clean task-management experience.
 
@@ -98,27 +56,6 @@ Users can register and log in, manage their profile (including avatar and cover 
 - ✅ Responsive, layered frontend/backend architecture
 
 🔗 [View Project](https://github.com/heydasrat/taskly)
-
----
-
-### 🔐 Previous Project: Advanced Authentication System
-
-A production-style authentication backend built with Node.js, Express.js, MongoDB, JWT, bcrypt, Cloudinary, Multer, and Nodemailer.
-
-Built to understand authentication beyond simple login/register flows.
-
-- ✅ Email verification
-- ✅ Access & refresh tokens
-- ✅ HTTP-only cookies
-- ✅ Forgot/reset password
-- ✅ Password and email updates
-- ✅ Profile image uploads
-- ✅ Secure password hashing
-- ✅ Authentication middleware
-- ✅ Centralized error handling
-- ✅ Reusable backend architecture
-
-🔗 [View Project](https://github.com/heydasrat/advanced-auth-system)
 
 ---
 
