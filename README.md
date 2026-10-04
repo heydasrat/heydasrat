@@ -171,13 +171,7 @@ I also enjoy playing Minecraft. 🎮
 
 ---
 
-## 🌐 Connect With Me
 
-* 💼 LinkedIn: [Add your LinkedIn](https://linkedin.com)
-* 📧 Email: Add your email
-* 🐙 GitHub: [@heydasrat](https://github.com/heydasrat)
-
----
 
 ## 💻 Tech Stack
 
